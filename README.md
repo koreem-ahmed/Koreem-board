@@ -1,5 +1,5 @@
 # Koreem-board
-this is my costumed keyboard with 2 OLED displays and RGP lights and a RP pico as a controller 
+this is my costumed keyboard with 2 OLED displays and RGP lights and a RP pico as a controller i made it with a 6.5 degrees slope to help in relaxing my hand when typing i made it becase i wanted a keyboard to help me programing and help me in typing. this was so cool journey to learn how ot program and how to make a keyboard from the scratch.
 
 # the PCB
 
