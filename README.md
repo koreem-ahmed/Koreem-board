@@ -42,9 +42,6 @@ this is my costumed keyboard with 2 OLED displays and RGP lights and a RP pico a
 <img width="1457" height="622" alt="image" src="https://github.com/user-attachments/assets/b706ac8c-cf06-46e1-8de9-2cc582134476" />
 
 # the BOM
-i searched on the parts on the enternet and i found a gap in prices in the versoins of deffrent products so this is my BOM
-
-<img width="958" height="679" alt="image" src="https://github.com/user-attachments/assets/09a879b2-a6fd-4d2f-99bd-2ad1a878d4a2" />
-
+i searched on the parts on the internet and i found a varity of the quantaties and the prices so after researching the total cost for my keyboard is 
 
 
