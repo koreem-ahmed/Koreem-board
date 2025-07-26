@@ -3,12 +3,11 @@ this is my costumed keyboard with 2 OLED displays and RGP lights and a RP pico a
 
 # the PCB
 
-<img width="1491" height="585" alt="image" src="https://github.com/user-attachments/assets/d79387bc-812c-40fd-8133-1766f406b2a0" />
+<img width="1476" height="559" alt="image" src="https://github.com/user-attachments/assets/d9dc2bd4-bcfa-42f2-ab8b-be2de26116a2" />
 
-<img width="1326" height="813" alt="image" src="https://github.com/user-attachments/assets/789462a9-74b4-4050-be3d-71b479c50166" />
+<img width="1265" height="835" alt="image" src="https://github.com/user-attachments/assets/c83736ba-5961-4921-bd37-265d51a322fb" />
 
-<img width="1305" height="804" alt="image" src="https://github.com/user-attachments/assets/aea3bf07-2ea6-40f8-ab8e-e2090c098e55" />
-
+<img width="1194" height="818" alt="image" src="https://github.com/user-attachments/assets/747489f7-1d55-47ff-a808-a75831475739" />
 
 # the schamatic
 
@@ -23,10 +22,7 @@ this is my costumed keyboard with 2 OLED displays and RGP lights and a RP pico a
 
 # the 3d viewer
 
-<img width="1567" height="674" alt="image" src="https://github.com/user-attachments/assets/867d8761-4f39-4516-8085-031e834ea927" />
-
-<img width="1807" height="858" alt="image" src="https://github.com/user-attachments/assets/90db038a-54e5-41b3-912f-321b30cc1ba1" />
-
+<img width="1627" height="650" alt="image" src="https://github.com/user-attachments/assets/8ec7f301-dfcb-4c59-8176-1a04dccd8335" />
 
 # The bottom part 
 <img width="769" height="511" alt="image" src="https://github.com/user-attachments/assets/89ad7f93-09c4-4e45-bce1-949d051e999d" />
