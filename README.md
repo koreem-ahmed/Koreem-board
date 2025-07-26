@@ -38,3 +38,5 @@ this is my costumed keyboard with 2 OLED displays and RGP lights and a RP pico a
 <img width="1217" height="781" alt="image" src="https://github.com/user-attachments/assets/66769112-8838-4385-988b-464550b3dd79" />
 
 <img width="868" height="595" alt="image" src="https://github.com/user-attachments/assets/ac1522f7-801d-43ef-af83-7bcbea618622" />
+
+<img width="1457" height="622" alt="image" src="https://github.com/user-attachments/assets/b706ac8c-cf06-46e1-8de9-2cc582134476" />
