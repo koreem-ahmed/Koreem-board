@@ -26,15 +26,20 @@ I arranged all the parts of the pcb and ran a dcr and I didn't find any errors. 
 ## Day 5 (1-2) 16/7/2025
 I searched how to make a grub file then tested it by putting it on JLCpcb to ship it and I took the price and put it in the BOM.
 
+<img width="1837" height="784" alt="image" src="https://github.com/user-attachments/assets/c56c7e30-3d0b-430e-810a-269c7c00cb49" />
+
 ## Day 6 (3-4) 19/7/2025
 I began my 3D designing and made a simple bottom case then added a slop to it. So it became one part (the bottom one).
 
+<img width="933" height="477" alt="image" src="https://github.com/user-attachments/assets/9b1708c1-07f9-4048-b114-be40c8ceb03c" />
+
 ## Day 7 (2-3) 20/7/2025
-I imported the dxr sketch for the top part and added a square for the OLED display and a hole I. The bottom part for the pico. Then extorted it and asimblied it with the bottom part to check if they are good. And they were good.
+I imported the dxr sketch for the top part and added a square for the OLED display and a hole I. The bottom part for the pico. Then exported it and asimblied it with the bottom part to check if they are good. And they were good.
 
 ## Day 8 (3-4) 23/7/2025
 I exported the pcb in step to put it in the cad and it wasn't that good so I made it right. And change all the things that wanted to be changed I. The BOM and organized the files in folders.
 
+<img width="1215" height="772" alt="image" src="https://github.com/user-attachments/assets/e276cb9e-f810-4cff-ae3b-f4e74dcecb1e" />
 
 ## Day 9 (1-2) 26/7/2025
 I putted some detailes in the cad like the writing and the shapes and I changed the BOM for the last time and checked the prices again. And took all the photos for the report and organized them.
