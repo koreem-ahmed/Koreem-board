@@ -25,21 +25,20 @@ this is my costumed keyboard with 2 OLED displays and RGP lights and a RP pico a
 <img width="1627" height="650" alt="image" src="https://github.com/user-attachments/assets/8ec7f301-dfcb-4c59-8176-1a04dccd8335" />
 
 # The bottom part 
-<img width="769" height="511" alt="image" src="https://github.com/user-attachments/assets/89ad7f93-09c4-4e45-bce1-949d051e999d" />
-
-<img width="1175" height="780" alt="image" src="https://github.com/user-attachments/assets/ef6ddfd8-5a43-4a5f-95e9-ab9c88afd858" />
+<img width="1051" height="254" alt="image" src="https://github.com/user-attachments/assets/71fc9147-5cf5-4a22-a9c7-f8328a094034" />
+<img width="1439" height="565" alt="image" src="https://github.com/user-attachments/assets/d9ebf360-d3b5-4a28-8da8-cb1fbd3e7bc7" />
+<img width="1214" height="377" alt="image" src="https://github.com/user-attachments/assets/7c69a486-ed51-4c1c-a7c6-013167a01e85" />
 
 
 # the top part
-<img width="1332" height="729" alt="image" src="https://github.com/user-attachments/assets/ddd3793d-e9d2-4da0-8cf7-15df8a572584" />
+<img width="1289" height="624" alt="image" src="https://github.com/user-attachments/assets/6c252481-6456-4aab-aa73-fb7720452529" />
 
 
 # the whole pad
-<img width="1217" height="781" alt="image" src="https://github.com/user-attachments/assets/66769112-8838-4385-988b-464550b3dd79" />
+<img width="1215" height="772" alt="image" src="https://github.com/user-attachments/assets/c4599358-d8c5-414a-8d07-90fae1cb8188" />
+<img width="1464" height="657" alt="image" src="https://github.com/user-attachments/assets/3440fc26-2c26-4899-8f26-3cb692fa577d" />
+<img width="1286" height="637" alt="image" src="https://github.com/user-attachments/assets/e0a90cc7-11a4-4e4d-bd9a-626e201fe276" />
 
-<img width="868" height="595" alt="image" src="https://github.com/user-attachments/assets/ac1522f7-801d-43ef-af83-7bcbea618622" />
-
-<img width="1457" height="622" alt="image" src="https://github.com/user-attachments/assets/b706ac8c-cf06-46e1-8de9-2cc582134476" />
 
 # the BOM
 i searched on the parts on the internet and i found a varity of the quantaties and the prices so after researching the total cost for my keyboard is 206 USD dollars.
