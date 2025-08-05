@@ -3,11 +3,9 @@ this is my costumed keyboard with 2 OLED displays and RGP lights and a RP pico a
 
 # the PCB
 
-<img width="1476" height="559" alt="image" src="https://github.com/user-attachments/assets/d9dc2bd4-bcfa-42f2-ab8b-be2de26116a2" />
-
-<img width="1265" height="835" alt="image" src="https://github.com/user-attachments/assets/c83736ba-5961-4921-bd37-265d51a322fb" />
-
-<img width="1194" height="818" alt="image" src="https://github.com/user-attachments/assets/747489f7-1d55-47ff-a808-a75831475739" />
+<img width="1477" height="568" alt="image" src="https://github.com/user-attachments/assets/be6362fc-6056-4909-b59f-c04281dca87b" />
+<img width="1137" height="816" alt="image" src="https://github.com/user-attachments/assets/9adbb255-2d0f-4c15-be73-da02e8a8f481" />
+<img width="1430" height="823" alt="image" src="https://github.com/user-attachments/assets/54e55827-a5d5-4825-a8bb-92098a748334" />
 
 # the schamatic
 
@@ -17,16 +15,14 @@ this is my costumed keyboard with 2 OLED displays and RGP lights and a RP pico a
 
 <img width="814" height="605" alt="image" src="https://github.com/user-attachments/assets/70142cdd-5064-45a1-92f5-15194633e837" />
 
-
 <img width="1858" height="849" alt="image" src="https://github.com/user-attachments/assets/2a829f8e-1db0-4f24-9bd1-544540a0e58f" />
 
 # the 3d viewer
-
 <img width="1627" height="650" alt="image" src="https://github.com/user-attachments/assets/8ec7f301-dfcb-4c59-8176-1a04dccd8335" />
 
 # The bottom part 
-<img width="1051" height="254" alt="image" src="https://github.com/user-attachments/assets/71fc9147-5cf5-4a22-a9c7-f8328a094034" />
-<img width="1439" height="565" alt="image" src="https://github.com/user-attachments/assets/d9ebf360-d3b5-4a28-8da8-cb1fbd3e7bc7" />
+<img width="1162" height="439" alt="image" src="https://github.com/user-attachments/assets/e5cdca1c-a63b-46aa-84d7-8cf7df349ea7" />
+<img width="1253" height="536" alt="image" src="https://github.com/user-attachments/assets/aed63e26-7238-4fae-8817-4bfe7f25a43e" />
 <img width="1214" height="377" alt="image" src="https://github.com/user-attachments/assets/7c69a486-ed51-4c1c-a7c6-013167a01e85" />
 
 
