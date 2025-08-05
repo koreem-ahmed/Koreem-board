@@ -37,6 +37,6 @@ this is my costumed keyboard with 2 OLED displays and RGP lights and a RP pico a
 
 
 # the BOM
-i searched on the parts on the internet and i found a varity of the quantaties and the prices so after researching the total cost for my keyboard is 206 USD dollars.
+i searched on the parts on the internet and i found a varity of the quantaties and the prices so after researching the total cost for my keyboard is 155 USD dollars.
 
 
