@@ -8,28 +8,28 @@ Today I began my search about the key-board and how to make it and the switches 
 <img width="1350" height="538" alt="image" src="https://github.com/user-attachments/assets/5cf65b20-db3c-4c48-a13c-b64d5c4cbc22" />
 
 ## Day 2 (2-3 hours) 10/7/2025
-I made a deep search of the most compatible libraries for kicad for the OLED display which must have 4 pins for (vcc , gnd , SDA , SCL) and the pico to match the exact same model i made in the  and the switches then I downloaded it ant made half the schematic which was the key matrix and some of the pico pins. also i searched a gin for the best 3d files to represent my work in the right way.
+I made a deep search of the most compatible libraries for kicad for the OLED display which must have 4 pins for (vcc , gnd , SDA , SCL) and the pico to match the exact same model i choosed on the flux the onlune local store in egypt and the switches to have the perfect size and to have the staplizers needed then I downloaded all of them and start making the scheamtic and i am half way through. in the schematic i made the key matrix and some of the pico pins like the 16 coloumns and 6 rows for my 75% keyboard. also i searched for the best 3d files to represent my work in the right way to be able to put it in the cad files.
 
 <img width="1573" height="661" alt="image" src="https://github.com/user-attachments/assets/d5b3106d-25fd-4739-bff7-c98421024577" />
 
 ## Day 3 (3-4 hours) 12/7/2025
-I completed the schematic and assigned the footprints for them then I arranged some of the footprints like the key matrix and routing them which was a very defecult mission since it is my second tiem making a pcb. and took the write measurments for real life to make the pcb more accurate and more likely to be made in real life.
+I completed the schematic which was the rgp lights and the 2 oled displays and the rest of teh pico pins and assigned the footprints for them from the libraries that i downloaded then I arranged some of the footprints like the key matrix and routing them which was a very defecult mission since it is my second tiem making a pcb. and took the write measurments for real life to make the pcb more accurate and more likely to be made in real life. so i checked by running a dcr on the pcb to check for designing errors or electric ones.
 
 <img width="672" height="569" alt="image" src="https://github.com/user-attachments/assets/5a1dab9b-baf1-41a7-a53a-510c1dbb7d56" />
 
 ## Day 4 (4-5 hours) 15/7/2025
-I arranged all the parts of the pcb and ran a dcr and I didn't find any errors except the ones for overlabing footprints. Then I wanted to insert RGB lights so I put them in the schematic and in the pcb.
+I arranged all the parts of the pcb and i saw my key board in the pcb and imagined how good it will be so i ran a dcr and I didn't find any errors except the ones for overlabing footprints. arringing the parts and the components and routing them was just a lot of work since y keyboard has 84 keys and 84 leds and 2 oled displays and 1 rp pico. all this component made the rounting more dificult but thank god i did it faster than i thought it would take. i exported my PCB as a step file to put it in the cad to test if it will fit in the real life or not. then i searched for the greb files and how to make ones and what are they used for and i decided to make it in the next day.
 
 <img width="1470" height="558" alt="image" src="https://github.com/user-attachments/assets/6c34c026-0e9c-4527-b8e5-8afea82f9253" />
 <img width="1897" height="850" alt="image" src="https://github.com/user-attachments/assets/6a278f8b-30e8-4fe6-bde4-176ef7b6a32c" />
 
 ## Day 5 (1-2) 16/7/2025
-I searched how to make a grub file then tested it by putting it on JLCpcb to ship it and I took the price and put it in the BOM. so i mad ethe grup file and placed ot in the website of JLcpcb and i had a standerd price which i put in my BOM.
+after the long search about how to make a greb file and how to use it properly adn how to drill its files and how it works. i tested my grb file by putting it in the website of the parttener of the hack club in making the PCBs JLCpcb i tried to upload the file and it worked and i found that the leds that i will use is so cheap there so i conteued in the shiping steps until i reached the last page so i wint to chck the price and i put it in the BOM ot make it more complte. so i made the table as a csv file as you said and how are you said i followed some links that made me understant what was goning on.
 
 <img width="1837" height="784" alt="image" src="https://github.com/user-attachments/assets/c56c7e30-3d0b-430e-810a-269c7c00cb49" />
 
 ## Day 6 (3-4) 19/7/2025
-I began my 3D designing and made a simple bottom case then added a slop to it. So it became one part (the bottom one). i made htis by calculating the dimentions of the pcb from kicad and put it in onshape to by identical and fit together then i made a triangle to make my keyboard with a 6.5 deg which will help my hands to wrinst and be relaxed when typing.
+I began my 3D designing and made a simple bottom case with a good thickness and a huge triangle int the bottom to make the keyboard sloped with 6.5 deg which is the best angel for my hand and the one that i found it relaxing and charming. So it became one part (the bottom one). i made it fits by calculating the dimentions of the pcb from kicad and put it in onshape in making the shallow part in the how which you might livej so  i checked again to ensure they was identical and fit together then.
 
 <img width="933" height="477" alt="image" src="https://github.com/user-attachments/assets/9b1708c1-07f9-4048-b114-be40c8ceb03c" />
 
