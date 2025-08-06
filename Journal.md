@@ -13,7 +13,7 @@ I made a deep search of the most compatible libraries for kicad for the OLED dis
 <img width="1573" height="661" alt="image" src="https://github.com/user-attachments/assets/d5b3106d-25fd-4739-bff7-c98421024577" />
 
 ## Day 3 (3-4 hours) 12/7/2025
-I completed the schematic and assigned the footprints for them then I arranged some of the footprints. to the 
+I completed the schematic and assigned the footprints for them then I arranged some of the footprints like the key matrix and routing them which was a very defecult mission since it is my second tiem making a pcb. and took the write measurments for real life to make the pcb more accurate and more likely to be made in real life.
 
 <img width="672" height="569" alt="image" src="https://github.com/user-attachments/assets/5a1dab9b-baf1-41a7-a53a-510c1dbb7d56" />
 
