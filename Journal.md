@@ -3,12 +3,12 @@
 ## Total time 22-31
 
 ## Day 1 (3-4 hours) 8/7/2025
-Today I began my search about the key-board and how to make it and the switches types and all the components of the key-board. I searched on ram electronics and flux (local stores in Egypt). I found that the perfect size for me is 75% key-boards so I sketched one like in the photo. so i made the layout and got the dxf and contenue planing for what i want to do.
+Today I began my search about the key-board and how to make it and the switches types and all the components of the key-board. I searched on ram electronics and flux (local stores in Egypt) and i found such a large amount of diffrent component which i can use in my keyboard i found alot of micro controllers but i chosed the pico due to its high speed and its easy way in flashing the code on it. I found that the perfect size for me is 75% key-boards to fit on my desk and be easy to be moved around. since i am in a board school so every week i will going to school in the first of the week adnd returning home in the end of the week so i made a small keyboard that can be carried easly. so i made the layout on key-layout editor and got the dxf file which i will use in making the top part of my cad then i contenued planing for what i want to do. like having oled displays or rgps or rottry endecators.
 
 <img width="1350" height="538" alt="image" src="https://github.com/user-attachments/assets/5cf65b20-db3c-4c48-a13c-b64d5c4cbc22" />
 
 ## Day 2 (2-3 hours) 10/7/2025
-I made a deep search of the most compatible libraries for kicad for the OLED display and the pico and the switches then I downloaded it ant made half the schematic which was the key matrix and some of the pico pins. also i searched a gin for the best 3d files to represent my work in the right way.
+I made a deep search of the most compatible libraries for kicad for the OLED display which must have 4 pins for (vcc , gnd , SDA , SCL) and the pico to match the exact same model i made in the  and the switches then I downloaded it ant made half the schematic which was the key matrix and some of the pico pins. also i searched a gin for the best 3d files to represent my work in the right way.
 
 <img width="1573" height="661" alt="image" src="https://github.com/user-attachments/assets/d5b3106d-25fd-4739-bff7-c98421024577" />
 
