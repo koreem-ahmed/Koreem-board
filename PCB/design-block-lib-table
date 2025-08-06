@@ -1,5 +1,0 @@
-(design_block_lib_table
-  (version 7)
-  (lib (name "switches")(type "KiCad")(uri "${KIPRJMOD}/libraries/keyswitch-kicad-library-main/keyswitch-kicad-library-main/library/3dmodels/3d-library.3dshapes")(options "")(descr ""))
-  (lib (name "stablizerrs")(type "KiCad")(uri "${KIPRJMOD}/libraries/kiswitch-main/library/3dmodels/3d-library.3dshapes")(options "")(descr ""))
-)
