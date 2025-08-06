@@ -34,17 +34,17 @@ I began my 3D designing and made a simple bottom case with a good thickness and 
 <img width="933" height="477" alt="image" src="https://github.com/user-attachments/assets/9b1708c1-07f9-4048-b114-be40c8ceb03c" />
 
 ## Day 7 (2-3) 20/7/2025
-I imported the dxr sketch for the top part and added a square for the OLED display and a hole I. The bottom part for the pico. Then exported it and asimblied it with the bottom part to check if they are good. And they were good. ans shown in this photo the two parts are working with each other and fit together.
+I imported the dxr sketch for the top part and added a square for the OLED display and a hole I all this poured in having a good top part the could fit perfectly. The bottom part for the pico was standing on the floor of the second floore all this made my top part has a lot of work and i give it all my creativity. Then exported it and asimblied it with the bottom part to check if they are good and fitting together and they were. as shown in this photo the two parts are working with each other and fit together. so when i assimbly in the real life i will be much easier to do.
 
 <img width="1325" height="646" alt="Screenshot 2025-08-05 160413" src="https://github.com/user-attachments/assets/a5d7613b-551b-4bbb-a856-43406e6866f3" />
 
 ## Day 8 (3-4) 23/7/2025
-I exported the pcb in step to put it in the cad and it wasn't that good so I made it right. and inserted it in the whole pad assymbly and checked on every thing then i ecported the hole file And change all the things that wanted to be changed I. The BOM and organized the files in folders.
+I exported the pcb in step to put it in the cad and it wasn't that good enoghph and there was some bad dimentions that were made. so I change it and searched about the real size and compared it will the store and the cad and i found that i must change it. so i change it an it was butiful and inserted it in the whole pad assymbly and checked on every thing to make sure that every thing was good and working and if there any other problems  then i ecported the whole file And change all the things that wanted to be changed like the name size and font. then i made the BOM and organized the files in folders.
 
 <img width="1215" height="772" alt="image" src="https://github.com/user-attachments/assets/e276cb9e-f810-4cff-ae3b-f4e74dcecb1e" />
 
 ## Day 9 (1-2) 26/7/2025
-I putted some detailes in the cad like the writing and adding some shapes and I changed the BOM for the last time making sure of the prices. And took all the photos for the submition and this day of the jornal and asked some friends about there openion in the cad and the pcb and the whole keyboard and they said it is good.
+I putted some detailes in the cad like the writing and adding some shapes, curves, text all this. and I changed the BOM for the last time making sure of the prices. on diffrent stores on the internet And took all the photos for the submition and in serted it in teh jornal file to document waht i did. i finnished the hole case making some parts out or it with 5 mm thickness 2 inside the case and 3 outside it so it will be soo good. and clearly this idea was loking good in the files.
 
 <img width="1021" height="536" alt="image" src="https://github.com/user-attachments/assets/373df4c7-1632-4072-ae8a-d51c65d905f8" />
 
