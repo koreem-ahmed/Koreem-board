@@ -58,5 +58,6 @@ i changed alot and submeted for the re-review 😍.
 
 ## Day 12 (less than an hour) 15/8/2025
 i made the last changes in my case and teh BOM and taran rereviewed me
-![Uploading image.png…]()
+<img width="1090" height="463" alt="image" src="https://github.com/user-attachments/assets/ae6afd2f-d01e-479e-beee-35de0bc12464" />
+
 
