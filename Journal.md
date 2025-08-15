@@ -46,11 +46,17 @@ I exported the PCB in STEP to put it in the CAD, and it wasn't good enough, and 
 ## Day 9 (1-2) 26/7/2025
 I put some details in the CAD, like the writing and adding some shapes, curves, and text—all this. and I changed the BOM for the last time, making sure of the prices. on different stores on the internet And took all the photos for the submission and inserted it in the journal file to document what I did. I finished the whole case, making some parts out of it with 5 mm thickness, 2 inside the case and 3 outside it, so it will be so good. and clearly this idea was looking good in the files.
 
-<img width="1021" height="536" alt="image" src="https://github.com/user-attachments/assets/373df4c7-1632-4072-ae8a-d51c65d905f8" />
+<img width="1090" height="463" alt="image" src="https://github.com/user-attachments/assets/271211ca-d35c-40b8-b0ef-3bf6dbc6e929" />
+
 
 ## Day 10 ( less than 1 hour ) 27/7/2025
 I checked on everything and submitted finally my keyboard.
 
 ## Day 11 (4 hours) 5/8/2025
 i changed alot and submeted for the re-review 😍.
-<img width="1851" height="961" alt="image" src="https://github.com/user-attachments/assets/f3520644-f93b-4021-9786-ce2c0277594d" />
+<img width="759" height="458" alt="image" src="https://github.com/user-attachments/assets/36060125-efac-4da0-a40c-338093d2b124" />
+
+## Day 12 (less than an hour) 15/8/2025
+i made the last changes in my case and teh BOM and taran rereviewed me
+![Uploading image.png…]()
+
