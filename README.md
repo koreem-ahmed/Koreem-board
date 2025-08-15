@@ -27,13 +27,14 @@ this is my costumed keyboard with 2 OLED displays and RGP lights and a RP pico a
 
 
 # the top part
-<img width="1289" height="624" alt="image" src="https://github.com/user-attachments/assets/6c252481-6456-4aab-aa73-fb7720452529" />
+<img width="1090" height="463" alt="image" src="https://github.com/user-attachments/assets/d9b26b94-6f11-40d6-ae80-71ac8a38a022" />
+<img width="1086" height="643" alt="image" src="https://github.com/user-attachments/assets/a55234e3-47e2-4659-88e5-099fda595787" />
 
 
 # the whole pad
-<img width="1215" height="772" alt="image" src="https://github.com/user-attachments/assets/c4599358-d8c5-414a-8d07-90fae1cb8188" />
-<img width="1464" height="657" alt="image" src="https://github.com/user-attachments/assets/3440fc26-2c26-4899-8f26-3cb692fa577d" />
-<img width="1286" height="637" alt="image" src="https://github.com/user-attachments/assets/e0a90cc7-11a4-4e4d-bd9a-626e201fe276" />
+<img width="759" height="458" alt="image" src="https://github.com/user-attachments/assets/84a0ff98-c764-4110-97c1-c572109f5720" />
+<img width="1090" height="463" alt="image" src="https://github.com/user-attachments/assets/e20f03bd-3b32-4d56-a1d4-0d33e601c1d8" />
+
 
 
 # the BOM
