@@ -38,6 +38,15 @@ this is my costumed keyboard with 2 OLED displays and RGP lights and a RP pico a
 # the BOM
 i searched on the parts on the internet and i found a varity of the quantaties and the prices so after researching the total cost for my keyboard is 155 USD dollars.
 
-<img width="555" height="601" alt="image" src="https://github.com/user-attachments/assets/29d153b9-9b1c-4737-877b-9c51b07bf464" />
-
+| Name                                              | Amount | Price  | Source |
+|---------------------------------------------------|--------|--------|--------|
+| RP Pico 2040                                      | 1      | $10    | [Most Electronics](https://mostelectronic.com/shop/arduino-development-boards/raspberry-pi/raspberry-pi-pico/) |
+| Stabilizers for Cherry MX                         | 1 set  | $15    | [Amazon Canada](https://www.amazon.ca/gp/product/B0725N5DG7/ref=ox_sc_act_image_1?smid=ANJIJSD0GGURT&psc=1) |
+| Red Silent Linear Switches                        | 110    | $50    | [Amazon Canada](https://www.amazon.ca/gp/product/B0DCPFBS57/ref=ox_sc_act_image_2?smid=A3DWYIK6Y9EEQB&psc=1) |
+| 1N4148 Diode                                      | 100    | $1.5   | [Ram Electronics](https://www.ram-e-shop.com/shop/1n4148-1n4148-high-speed-fast-switching-diode-300ma-100v-5636) |
+| OLED Display (1.3")                               | 2      | $7     | [Flux Electronics](https://fluxelectronix.com/shop/1-3-inch-oled-display-module-blue-128x64-4pin-i2c) |
+| Keycaps                                           | 1 set  | $8     | [Amazon Egypt](https://www.ram-e-shop.com/shop/rpi-pico-w-raspberry-pi-pico-w-wifi-8524) |
+| PCB + WS2812B-V5/W (assembled, no coupon)         | 1      | $43    | JLCPCB |
+| 3D Printing (Case)                                | 1      | $31.5  | Printfy |
+| **Total**                                         | —      | **$153** | — |
 
