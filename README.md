@@ -3,22 +3,22 @@ this is my costumed keyboard with 2 OLED displays and RGP lights and a RP pico a
 
 # the PCB
 
-<img width="1477" height="568" alt="image" src="https://github.com/user-attachments/assets/be6362fc-6056-4909-b59f-c04281dca87b" />
-<img width="1137" height="816" alt="image" src="https://github.com/user-attachments/assets/9adbb255-2d0f-4c15-be73-da02e8a8f481" />
-<img width="1430" height="823" alt="image" src="https://github.com/user-attachments/assets/54e55827-a5d5-4825-a8bb-92098a748334" />
+<img width="1300" height="568" alt="image" src="https://github.com/user-attachments/assets/be6362fc-6056-4909-b59f-c04281dca87b" />
+<img width="1300" height="816" alt="image" src="https://github.com/user-attachments/assets/9adbb255-2d0f-4c15-be73-da02e8a8f481" />
+<img width="1300" height="823" alt="image" src="https://github.com/user-attachments/assets/54e55827-a5d5-4825-a8bb-92098a748334" />
 
 # the schamatic
 
-<img width="1809" height="763" alt="image" src="https://github.com/user-attachments/assets/934a0a03-38a3-4f17-93f2-8326bf06185b" />
+<img width="1300" height="763" alt="image" src="https://github.com/user-attachments/assets/934a0a03-38a3-4f17-93f2-8326bf06185b" />
 
-<img width="1673" height="771" alt="image" src="https://github.com/user-attachments/assets/20fe653b-cfc9-4caf-b8f5-6321f11ec18c" />
+<img width="1300" height="771" alt="image" src="https://github.com/user-attachments/assets/20fe653b-cfc9-4caf-b8f5-6321f11ec18c" />
 
-<img width="814" height="605" alt="image" src="https://github.com/user-attachments/assets/70142cdd-5064-45a1-92f5-15194633e837" />
+<img width="1300" height="605" alt="image" src="https://github.com/user-attachments/assets/70142cdd-5064-45a1-92f5-15194633e837" />
 
-<img width="1858" height="849" alt="image" src="https://github.com/user-attachments/assets/2a829f8e-1db0-4f24-9bd1-544540a0e58f" />
+<img width="1300" height="849" alt="image" src="https://github.com/user-attachments/assets/2a829f8e-1db0-4f24-9bd1-544540a0e58f" />
 
 # the 3d viewer
-<img width="1627" height="650" alt="image" src="https://github.com/user-attachments/assets/8ec7f301-dfcb-4c59-8176-1a04dccd8335" />
+<img width="1400" height="650" alt="image" src="https://github.com/user-attachments/assets/8ec7f301-dfcb-4c59-8176-1a04dccd8335" />
 
 # The bottom part 
 <img width="1200" height="684" alt="image" src="https://github.com/user-attachments/assets/626dac6d-b63f-40d7-a709-5f5dfd46f09a" />
