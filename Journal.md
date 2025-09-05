@@ -59,3 +59,9 @@ i changed alot and submeted for the re-review 😍.
 ## Day 12 (less than an hour) 15/8/2025
 i made the last changes in my case and teh BOM and taran rereviewed me
 
+## Day 13 (3 hours) 5-9-2025
+i changed the cad parts to 2 parts for each layer means that 2 parts for buttom part and 2 parts for top part and this is the whole case
+
+<img width="1486" height="857" alt="image" src="https://github.com/user-attachments/assets/36f48caa-02c0-41df-a706-4ef2205bcdda" />
+<img width="1447" height="819" alt="image" src="https://github.com/user-attachments/assets/58948b2e-4ff8-464c-a9fb-4a426bc909b5" />
+
